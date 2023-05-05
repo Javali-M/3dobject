@@ -1,4 +1,10 @@
 # 3dobject
+To run :
+download the repo and run the following commands:
+npm install --save three
+npm install --save-dev vite
+npx vite
+
 This is how the raw version would look like, we can edit it further by adding more functionalities, but for now this is the simple version I created.
 We can use the change color button with simple HTML to change the color of ball with random colors, that I made using the random function.
 It also has the rotatable feature, the next step was to add texture as well, but for now I've kept it as the simple version.
